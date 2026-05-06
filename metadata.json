@@ -1,0 +1,6 @@
+{
+  "name": "AppCraft Compiler",
+  "description": "A high-reliability multi-stage compiler that transforms natural language into validated, executable software schemas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
